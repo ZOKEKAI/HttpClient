@@ -10,4 +10,4 @@
 
 登陆操作：使用POST方式，携带用户名和密码这两个参数访问网址：http://localhost:8080/httpserver/login
 
-删除操作：使用DELETE方式，根据id值删除某个用户：http://localhost:8480/httpserver/user/4
+删除操作：使用DELETE方式，根据id值删除某个用户：http://localhost:8080/httpserver/user/4
